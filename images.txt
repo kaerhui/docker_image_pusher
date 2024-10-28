@@ -13,7 +13,7 @@ google/cadvisor:canary
 #nacos/nacos-server:v2.3.0
 # openjdk:21
 #alpine:3.19.0
-# nginx:1.27-alpine
+nginx:1.27-alpine
 # docker.io/calico/cni:v3.25.0
 # docker.io/calico/node:v3.25.0
 # docker.io/calico/kube-controllers:v3.25.0
