@@ -29,4 +29,4 @@ nginx:1.27-alpine
 #docker.elastic.co/elasticsearch/elasticsearch:7.6.2
 # docker.elastic.co/kibana/kibana:7.6.2
 #jenkins/jenkins:2.479
-#jenkins/jenkins:lts-jdk8
+##jenkins/jenkins:lts-jdk8
