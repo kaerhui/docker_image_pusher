@@ -12,6 +12,7 @@ xuxiaoweicomcn/prometheus-adapter:v0.11.1
 penpotapp/exporter:latest
 penpotapp/backend:latest
 penpotapp/frontend:latest
+elasticsearch:8.11.3
 mariadb:10.5.8
 sj26/mailcatcher:latest
 #gcr.io/kubeflow-images-public/pytorch-operator:v1alpha2
