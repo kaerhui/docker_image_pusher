@@ -8,6 +8,19 @@ google/cadvisor:canary
 xuxiaoweicomcn/prometheus-adapter:v0.11.1
 #dyrnq/kube-state-metrics:v2.9.2
 #支持指
+
+#dify 依赖
+langgenius/dify-api:0.6.13
+postgres:15-alpine
+nginx:latest
+redis:6-alpine
+langgenius/dify-sandbox:0.2.1
+ubuntu/squid:latest
+semitechnologies/weaviate:1.19.0
+langgenius/dify-web:0.6.13
+langgenius/dify-api:0.6.13
+
+
 mikesplain/openvas
 #--platform=linux/arm64 xiaoyaliu/alist
 penpotapp/exporter:latest
