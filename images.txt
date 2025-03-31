@@ -30,11 +30,13 @@ ghcr.io/chroma-core/chroma:0.5.20
 
 
 
-
+#openvas
 securecompliance/gvm
-
-
+kvaps/letsencrypt-webroot
+funkyfuture/deck-chores
+nginx:alpine
 mikesplain/openvas
+
 #--platform=linux/arm64 xiaoyaliu/alist
 penpotapp/exporter:latest
 penpotapp/backend:latest
