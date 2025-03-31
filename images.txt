@@ -19,6 +19,17 @@ ubuntu/squid:latest
 semitechnologies/weaviate:1.19.0
 langgenius/dify-web:0.6.13
 langgenius/dify-api:0.6.13
+certbot/certbot
+nginx:latest
+pingcap/tidb:v8.4.0
+langgenius/qdrant:v1.7.3
+pgvector/pgvector:pg16
+tensorchord/pgvecto-rs_pg16-v0.3.0
+ghcr.io/chroma-core/chroma:0.5.20
+
+
+
+
 
 securecompliance/gvm
 
