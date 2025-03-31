@@ -32,7 +32,8 @@ ghcr.io/chroma-core/chroma:0.5.20
 #openvas
 securecompliance/gvm
 kvaps/letsencrypt-webroot
-funkyfuture/deck-chores
+#funkyfuture/deck-chores
+airhelp/deck-chores
 nginx:alpine
 mikesplain/openvas
 
