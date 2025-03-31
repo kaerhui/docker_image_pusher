@@ -29,7 +29,6 @@ ghcr.io/chroma-core/chroma:0.5.20
 
 
 
-
 #openvas
 securecompliance/gvm
 kvaps/letsencrypt-webroot
