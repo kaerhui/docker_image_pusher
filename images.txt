@@ -45,6 +45,9 @@ kvaps/letsencrypt-webroot
 airhelp/deck-chores
 nginx:alpine
 mikesplain/openvas
+greenbone/gsa
+greenbone/gvm
+greenbone/gvm-libs
 
 #--platform=linux/arm64 xiaoyaliu/alist
 penpotapp/exporter:latest
