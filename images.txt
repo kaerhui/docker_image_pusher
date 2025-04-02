@@ -44,7 +44,8 @@ kvaps/letsencrypt-webroot
 #funkyfuture/deck-chores
 airhelp/deck-chores
 nginx:alpine
-mikesplain/openvas
+immauss/openvas:beta
+#mikesplain/openvas
 greenbone/gsa
 greenbone/gvm
 greenbone/gvm-libs
