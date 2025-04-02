@@ -46,9 +46,9 @@ airhelp/deck-chores
 nginx:alpine
 immauss/openvas:beta
 #mikesplain/openvas
-greenbone/gsa
-greenbone/gvm
-greenbone/gvm-libs
+#greenbone/gsa
+#greenbone/gvm
+#greenbone/gvm-libs
 
 #--platform=linux/arm64 xiaoyaliu/alist
 penpotapp/exporter:latest
