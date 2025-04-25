@@ -34,7 +34,8 @@ myscale/myscaledb:1.6.4
 docker.elastic.co/elasticsearch/elasticsearch:8.14.3
 docker.elastic.co/kibana/kibana:8.14.3
 downloads.unstructured.io/unstructured-io/unstructured-api:latest
-
+#飞浆
+paddlepaddle/paddle:latest-dev-cann5.0.2.alpha005-gcc82-aarch64
 #kali
 kalilinux/kali-rolling
 
