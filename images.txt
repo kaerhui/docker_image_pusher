@@ -20,7 +20,7 @@ zcube/cadvisor:latest@sha256:1d74c59eb99c7445511b0d2e3c69b5352dddf6fb71571d42ba2
 #langgenius/dify-api:1.1.3
 #langgenius/dify-web:1.1.3
 #postgres:15-alpine
-#redis:6-alpine
+redis:6-alpine
 #langgenius/dify-sandbox:0.2.11
 #langgenius/dify-plugin-daemon:0.0.6-local
 #ubuntu/squid:latest
