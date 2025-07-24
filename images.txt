@@ -9,6 +9,9 @@ xuxiaoweicomcn/prometheus-adapter:v0.11.1
 #dyrnq/kube-state-metrics:v2.9.2
 #支持指
 
+#cAdvisor
+bitnami/cadvisor:sha256-068b9906b18e3467f9b1e621b1c91b20eb4d156766b0bfbf53092602c76339f4
+
 #dify 依赖
 langgenius/dify-api:1.1.3
 langgenius/dify-web:1.1.3
