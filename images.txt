@@ -12,7 +12,9 @@
 #cAdvisor
 #bitnami/cadvisor:sha256-068b9906b18e3467f9b1e621b1c91b20eb4d156766b0bfbf53092602c76339f4
 
-bitnami/cadvisor:latest@sha256:068b9906b18e3467f9b1e621b1c91b20eb4d156766b0bfbf53092602c76339f4
+#bitnami/cadvisor:latest@sha256:068b9906b18e3467f9b1e621b1c91b20eb4d156766b0bfbf53092602c76339f4
+
+zcube/cadvisor:latest@sha256:1d74c59eb99c7445511b0d2e3c69b5352dddf6fb71571d42ba2e113b3703502e
 
 #dify 依赖
 #langgenius/dify-api:1.1.3
